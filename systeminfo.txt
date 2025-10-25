@@ -1,0 +1,49 @@
+
+Host Name:                     EC2AMAZ-0A3MS1B
+OS Name:                       Microsoft Windows Server 2025 Datacenter
+OS Version:                    10.0.26100 N/A Build 26100
+OS Manufacturer:               Microsoft Corporation
+OS Configuration:              Standalone Server
+OS Build Type:                 Multiprocessor Free
+Registered Owner:              EC2
+Registered Organization:       Amazon.com
+Product ID:                    00491-50000-00001-AA402
+Original Install Date:         10/25/2025, 9:21:53 AM
+System Boot Time:              10/25/2025, 9:44:31 AM
+System Manufacturer:           Amazon EC2
+System Model:                  t3.micro
+System Type:                   x64-based PC
+Processor(s):                  1 Processor(s) Installed.
+                               [01]: Intel64 Family 6 Model 85 Stepping 7 GenuineIntel ~2500 Mhz
+BIOS Version:                  Amazon EC2 1.0, 10/16/2017
+Windows Directory:             C:\Windows
+System Directory:              C:\Windows\system32
+Boot Device:                   \Device\HarddiskVolume2
+System Locale:                 en-us;English (United States)
+Input Locale:                  en-us;English (United States)
+Time Zone:                     (UTC) Coordinated Universal Time
+Total Physical Memory:         880 MB
+Available Physical Memory:     45 MB
+Virtual Memory: Max Size:      2,853 MB
+Virtual Memory: Available:     630 MB
+Virtual Memory: In Use:        2,223 MB
+Page File Location(s):         C:\pagefile.sys
+Domain:                        WORKGROUP
+Logon Server:                  \\EC2AMAZ-0A3MS1B
+Hotfix(s):                     3 Hotfix(s) Installed.
+                               [01]: KB5066131
+                               [02]: KB5066835
+                               [03]: KB5067360
+Network Card(s):               1 NIC(s) Installed.
+                               [01]: Amazon Elastic Network Adapter
+                                     Connection Name: Ethernet
+                                     DHCP Enabled:    Yes
+                                     DHCP Server:     172.31.32.1
+                                     IP address(es)
+                                     [01]: 172.31.38.227
+                                     [02]: fe80::8a48:72a1:2f67:24a4
+Virtualization-based security: Status: Not enabled
+                               App Control for Business policy: Enforced
+                               App Control for Business user mode policy: Off
+                               Security Features Enabled:
+Hyper-V Requirements:          A hypervisor has been detected. Features required for Hyper-V will not be displayed.
